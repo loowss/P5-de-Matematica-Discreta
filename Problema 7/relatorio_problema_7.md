@@ -1,6 +1,5 @@
 # Relatório de Verificação Formal — Problema 7: Multiplicação Russa/Egípcia
 
----
 
 ## 1. Especificação
 
