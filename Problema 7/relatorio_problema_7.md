@@ -1,8 +1,5 @@
 # Relatório de Verificação Formal — Problema 7: Multiplicação Russa/Egípcia
 
-**Disciplina:** Matemática Discreta e Verificação Formal
-**Docente:** Prof. Edjard Mota — IC/UFAM
-
 ---
 
 ## 1. Especificação
